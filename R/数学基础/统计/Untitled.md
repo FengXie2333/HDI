@@ -1,0 +1,1 @@
+table(variable)  可以显示每个变量出现的次数
