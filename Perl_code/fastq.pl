@@ -14,7 +14,7 @@ while (<INPUT>) {
        $num_reads += 1;
        next;
    } 
-   my $line += $line
+    $line += $line
 }
 my $total_length = (length($line) - $num_reads)/2;
 close INPUT;
