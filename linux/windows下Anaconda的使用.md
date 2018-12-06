@@ -1,0 +1,1 @@
+如何更改jupyter的默认路径：https://blog.csdn.net/weixin_36292173/article/details/76209839

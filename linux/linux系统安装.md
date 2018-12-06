@@ -68,3 +68,22 @@ LANGUAGE="zh_CN:zh"
 
 
 
+# windows子系统安装zsh
+
+~~~linux
+Unable to locate package <package>
+~~~
+
+firstly **Make sure you have enabled Ubuntu repositories:**
+
+~~~linux
+sudo add-apt-repository main
+sudo add-apt-repository universe
+sudo add-apt-repository restricted
+sudo add-apt-repository multiverse
+~~~
+
+solve!!
+
+
+

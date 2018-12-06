@@ -30,6 +30,9 @@ WGCNA所分析的数据是芯片数据（需要砸很多芯片，比如若要研
 
  
 
+代码实现: [一文学会WGCNA分析](http://www.bio-info-trainee.com/2535.html)
+
+
 
 
  
