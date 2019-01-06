@@ -1,0 +1,16 @@
+[I 21:00:10.267 LabApp] JupyterLab extension loaded from /home/xiefeng/miniconda3/lib/python3.7/site-packages/jupyterlab
+[I 21:00:10.267 LabApp] JupyterLab application directory is /home/xiefeng/miniconda3/share/jupyter/lab
+[W 21:00:10.270 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 21:00:10.276 LabApp] JupyterLab extension loaded from /home/xiefeng/miniconda3/lib/python3.7/site-packages/jupyterlab
+[I 21:00:10.276 LabApp] JupyterLab application directory is /home/xiefeng/miniconda3/share/jupyter/lab
+[I 21:00:10.277 LabApp] Serving notebooks from local directory: /mnt/d/HDI/HDI/python/encode
+[I 21:00:10.277 LabApp] The Jupyter Notebook is running at:
+[I 21:00:10.277 LabApp] http://localhost:6666/?token=e145f5e2b311f2fce3d6a7bb51bab3e5c5d3e28aca19fe12
+[I 21:00:10.284 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:00:10.294 LabApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:6666/?token=e145f5e2b311f2fce3d6a7bb51bab3e5c5d3e28aca19fe12
+[C 21:10:07.334 LabApp] received signal 15, stopping
+[I 21:10:07.335 LabApp] Shutting down 0 kernels

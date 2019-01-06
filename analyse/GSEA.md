@@ -42,9 +42,7 @@ R存文件时要存成用\t分隔(txt或tsv)。或者存成.csv再改成txt。
 
 ## 4 Microarray Chip Annotation Formats
 
-chip文件可以在Run GSEA时选择，但是我运行时加载不出web上的库。这个也可以自己DIY。DAVID和bioDBnet可以转换Gene ID([[简述几种Gene ID的转换方法](http://t43983006.lofter.com/post/1d0b3057_cd5afb9)])
-
-
+chip文件可以在Run GSEA时选择，但是我运行时加载不出web上的库。这个也可以自己DIY。DAVID和bioDBnet可以转换Gene ID([[简述几种Gene ID的转换方法](http://t43983006.lofter.com/post/1d0b3057_cd5afb9)
 
 # 三、运行和结果分析
 
